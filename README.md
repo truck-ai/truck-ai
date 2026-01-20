@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#4A90E2;">Stack Weaver</span></h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#4A90E2;">Truck</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=4A90E2&center=true&vCenter=true&width=800&lines=AI+%26+Blockchain+Engineer;Full+Stack+Developer;Always+Exploring+Future+Tech" alt="Typing SVG" />
@@ -120,8 +120,8 @@ I’m always exploring new intersections between <b>Blockchain, AI, and Automati
 
 <div align="center">
   <a href="mailto:stackweaver7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/@SWeaver5"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://discord.gg/398866823602241538"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://t.me"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
 
 ---
